@@ -1,5 +1,7 @@
 module ReactSandbox
 
+// See https://github.com/tforkmann/Feliz.ReactFlow for details on this example
+
 open Feliz.ReactFlow
 open Browser.Dom
 
