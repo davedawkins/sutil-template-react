@@ -1,7 +1,8 @@
 module App
 
 open Sutil
-open Sutil.DOM
+open Sutil.CoreElements
+
 open type Feliz.length
 open Fable.React.ReactDomBindings
 
